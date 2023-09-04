@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Cardinal\Cardinal\bin\Debug\Cardinal.exe.config
+C:\Users\User\source\repos\Cardinal\Cardinal\bin\Debug\Cardinal.exe
+C:\Users\User\source\repos\Cardinal\Cardinal\bin\Debug\Cardinal.pdb
+C:\Users\User\source\repos\Cardinal\Cardinal\obj\Debug\Cardinal.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Cardinal\Cardinal\obj\Debug\Cardinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Cardinal\Cardinal\obj\Debug\Cardinal.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Cardinal\Cardinal\obj\Debug\Cardinal.exe
+C:\Users\User\source\repos\Cardinal\Cardinal\obj\Debug\Cardinal.pdb
